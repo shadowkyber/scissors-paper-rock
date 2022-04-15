@@ -1,0 +1,5 @@
+ash 150
+ben 1000
+cole 50
+dom 100
+ethan 450
